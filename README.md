@@ -1,1 +1,1 @@
-# Project2_AI
+# Project2_AI Practice
